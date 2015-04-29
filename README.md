@@ -45,6 +45,8 @@ Engage, Contribute and Provide Feedback
 
 Some of the best ways to contribute are to try things out, file bugs, and join in design conversations. You are encouraged to start a discussion by filing an issue, or starting a thread in the [.NET Foundation forums].
 
+If you find and bugs or want to try to help us out with any issues that we have feel free to post in the issues tab.
+
 Looking for something to work on? The list of [up-for-grabs issues](https://github.com/dotnet/coreclr/issues?q=is%3Aopen+is%3Aissue+label%3Aup-for-grabs) is a great place to start.
 
 Please checkout the wiki to read the [contribution guidelines][Contributing Guide] for .NET Core and the deverloper guide for general information.
